@@ -8,7 +8,7 @@ A Simple bootloader for Computer Craft
 There are three ways to install it they are mostly made to make it so you don't have to type as much
 
 1. GitHub Shortlink
-``wget run http://browndog7912.github.io/cc/hboot.lua``
+``wget run https://browndog7912.github.io/cc/hboot.lua``
 2. Pastebin Link
 ``pastebin run ijkveHvW``
 3. Github Raw Link
